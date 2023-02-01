@@ -19,6 +19,8 @@ We want to understand how well a company performs in the long-term, not just the
 <!-- CONTRIBUTING -->
 ## Methods
 
+The method for this was that I used the language R to write the scripts that take the data in so as to start the report creation. I also use the package flextable (in R) as well as R programming so as to create the best of processing to data for reporting and outputting at as a functional report.
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
