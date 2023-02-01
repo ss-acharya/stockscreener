@@ -7,6 +7,8 @@ These scripts take in earnings data (of many companies) in the form of .csv file
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+When trying to understand how well a company does, the first thing that an investor looks at is the stock price. Stock price is a convenient thing to look at on a site at a brockerage because it is given and it is daily. However, it is a highly volatile parameter to work with. Therefore, if possible, we work with earnings. 
+
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
