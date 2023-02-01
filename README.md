@@ -13,15 +13,7 @@ When trying to understand how well a company does, the first thing that an inves
 <!-- ROADMAP -->
 ## Problem / Question
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+We want to understand how well a company performs in the long-term, not just the short-term that stock price gives us. As such, we take earnings data and use that to create quick and simple reports for options traders, stock traders and whoever decides to work this. This way, a trader can make decisions in real time. 
 
 
 <!-- CONTRIBUTING -->
