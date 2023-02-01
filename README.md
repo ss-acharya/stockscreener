@@ -24,22 +24,12 @@ The method for this was that I used the language R to write the scripts that tak
 
 It does the job that it is intended to do - create a simple, yet palatable report for a given customer who asks for it.
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Discussion
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+E-mail: sankarshansacharya@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Project Link: [https://github.com/ss-acharya/stockscreener](https://github.com/ss-acharya/stockscreener)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Next Steps
